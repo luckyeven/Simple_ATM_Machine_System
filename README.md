@@ -28,6 +28,3 @@ Basic functions include:
 3. After three failed attempts to enter correct pin, do log out.
 4. Do cash withdraw operation,then show the new balance.
 5. Log out.
-
-### 3. Implement
-.
