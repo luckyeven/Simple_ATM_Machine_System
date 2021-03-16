@@ -1,4 +1,5 @@
 # Simple_ATM_Machine_System
+This is a practice of using C and git. 
 Design a simple ATM machine user interface, implement basic functions such as user log in , deposit money and withdraw money.
 ***
 |Author|Shifeng_Song|
